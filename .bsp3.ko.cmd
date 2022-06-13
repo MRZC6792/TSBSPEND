@@ -1,0 +1,1 @@
+cmd_/home/mrzc/TS/BSP/bsp3/bsp3.ko := ld -r -m elf_x86_64 --build-id=sha1  -T scripts/module.lds -o /home/mrzc/TS/BSP/bsp3/bsp3.ko /home/mrzc/TS/BSP/bsp3/bsp3.o /home/mrzc/TS/BSP/bsp3/bsp3.mod.o;  true
